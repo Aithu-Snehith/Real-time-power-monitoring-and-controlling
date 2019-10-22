@@ -1,0 +1,26 @@
+{
+  "name": "megathon2k17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrazyByDefault/megathon2k17.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+      "body-parser": "^1.17.2",
+      "express": "^4.15.4",
+      "net": "^1.0.2",
+      "tcp-proxy": "0.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/CrazyByDefault/megathon2k17/issues"
+  },
+  "homepage": "https://github.com/CrazyByDefault/megathon2k17#readme"
+}
